@@ -5,4 +5,9 @@ echo "Hello World";
 //another comment made in vs code
 
 //new comment made from github repo
+
+//2nd merge conflict
+function cat(){
+    echo "Meow";
+}
 ?>
